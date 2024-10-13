@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amoskirui5
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Unit Tests in C#.
+- 🌱 I’m currently working with Azure and learning typescript.
 - 💞️ I’m looking to collaborate on C# web projects or any other interesting project on software Development
 - 📫 How to reach me ; iamcheruiyotkirui@gmail.com||+254713938936
 
